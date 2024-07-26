@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gfagundes\\Documents\\Development\\Gabriel\\TripOrganizer_BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A09ED366-95AF-4436-B831-4A00D0FB01BB}|src\\TripOrganizer.Domain\\TripOrganizer.Domain.csproj|c:\\users\\gfagundes\\documents\\development\\gabriel\\triporganizer_backend\\src\\triporganizer.domain\\responses\\responsetripsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09ED366-95AF-4436-B831-4A00D0FB01BB}|src\\TripOrganizer.Domain\\TripOrganizer.Domain.csproj|solutionrelative:src\\triporganizer.domain\\responses\\responsetripsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09ED366-95AF-4436-B831-4A00D0FB01BB}|src\\TripOrganizer.Domain\\TripOrganizer.Domain.csproj|c:\\users\\gfagundes\\documents\\development\\gabriel\\triporganizer_backend\\src\\triporganizer.domain\\entities\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09ED366-95AF-4436-B831-4A00D0FB01BB}|src\\TripOrganizer.Domain\\TripOrganizer.Domain.csproj|solutionrelative:src\\triporganizer.domain\\entities\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09ED366-95AF-4436-B831-4A00D0FB01BB}|src\\TripOrganizer.Domain\\TripOrganizer.Domain.csproj|c:\\users\\gfagundes\\documents\\development\\gabriel\\triporganizer_backend\\src\\triporganizer.domain\\exception\\resourceerrormessages.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A09ED366-95AF-4436-B831-4A00D0FB01BB}|src\\TripOrganizer.Domain\\TripOrganizer.Domain.csproj|solutionrelative:src\\triporganizer.domain\\exception\\resourceerrormessages.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB043A03-5796-41B3-BF59-447B3C8E3C84}|src\\TripOrganizer.Service\\TripOrganizer.Service.csproj|c:\\users\\gfagundes\\documents\\development\\gabriel\\triporganizer_backend\\src\\triporganizer.service\\validators\\tripsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB043A03-5796-41B3-BF59-447B3C8E3C84}|src\\TripOrganizer.Service\\TripOrganizer.Service.csproj|solutionrelative:src\\triporganizer.service\\validators\\tripsvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09ED366-95AF-4436-B831-4A00D0FB01BB}|src\\TripOrganizer.Domain\\TripOrganizer.Domain.csproj|c:\\users\\gfagundes\\documents\\development\\gabriel\\triporganizer_backend\\src\\triporganizer.domain\\requests\\requestregistertripjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09ED366-95AF-4436-B831-4A00D0FB01BB}|src\\TripOrganizer.Domain\\TripOrganizer.Domain.csproj|solutionrelative:src\\triporganizer.domain\\requests\\requestregistertripjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09ED366-95AF-4436-B831-4A00D0FB01BB}|src\\TripOrganizer.Domain\\TripOrganizer.Domain.csproj|c:\\users\\gfagundes\\documents\\development\\gabriel\\triporganizer_backend\\src\\triporganizer.domain\\responses\\responseactivityjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09ED366-95AF-4436-B831-4A00D0FB01BB}|src\\TripOrganizer.Domain\\TripOrganizer.Domain.csproj|solutionrelative:src\\triporganizer.domain\\responses\\responseactivityjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09ED366-95AF-4436-B831-4A00D0FB01BB}|src\\TripOrganizer.Domain\\TripOrganizer.Domain.csproj|c:\\users\\gfagundes\\documents\\development\\gabriel\\triporganizer_backend\\src\\triporganizer.domain\\responses\\responsetripjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09ED366-95AF-4436-B831-4A00D0FB01BB}|src\\TripOrganizer.Domain\\TripOrganizer.Domain.csproj|solutionrelative:src\\triporganizer.domain\\responses\\responsetripjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09ED366-95AF-4436-B831-4A00D0FB01BB}|src\\TripOrganizer.Domain\\TripOrganizer.Domain.csproj|c:\\users\\gfagundes\\documents\\development\\gabriel\\triporganizer_backend\\src\\triporganizer.domain\\entities\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09ED366-95AF-4436-B831-4A00D0FB01BB}|src\\TripOrganizer.Domain\\TripOrganizer.Domain.csproj|solutionrelative:src\\triporganizer.domain\\entities\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD33E82-2710-42D1-8CA6-D247C76EE7D8}|src\\TripOrganizer.Application\\TripOrganizer.Application.csproj|c:\\users\\gfagundes\\documents\\development\\gabriel\\triporganizer_backend\\src\\triporganizer.application\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD33E82-2710-42D1-8CA6-D247C76EE7D8}|src\\TripOrganizer.Application\\TripOrganizer.Application.csproj|solutionrelative:src\\triporganizer.application\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{192E0909-B4E4-4763-BFD0-DEE94511A30C}|src\\TripOrganizer.Infra\\TripOrganizer.Infra.csproj|c:\\users\\gfagundes\\documents\\development\\gabriel\\triporganizer_backend\\src\\triporganizer.infra\\repository\\tripsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{192E0909-B4E4-4763-BFD0-DEE94511A30C}|src\\TripOrganizer.Infra\\TripOrganizer.Infra.csproj|solutionrelative:src\\triporganizer.infra\\repository\\tripsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD33E82-2710-42D1-8CA6-D247C76EE7D8}|src\\TripOrganizer.Application\\TripOrganizer.Application.csproj|c:\\users\\gfagundes\\documents\\development\\gabriel\\triporganizer_backend\\src\\triporganizer.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD33E82-2710-42D1-8CA6-D247C76EE7D8}|src\\TripOrganizer.Application\\TripOrganizer.Application.csproj|solutionrelative:src\\triporganizer.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResponseTripsJson.cs",
+              "DocumentMoniker": "C:\\Users\\gfagundes\\Documents\\Development\\Gabriel\\TripOrganizer_BackEnd\\src\\TripOrganizer.Domain\\Responses\\ResponseTripsJson.cs",
+              "RelativeDocumentMoniker": "src\\TripOrganizer.Domain\\Responses\\ResponseTripsJson.cs",
+              "ToolTip": "C:\\Users\\gfagundes\\Documents\\Development\\Gabriel\\TripOrganizer_BackEnd\\src\\TripOrganizer.Domain\\Responses\\ResponseTripsJson.cs",
+              "RelativeToolTip": "src\\TripOrganizer.Domain\\Responses\\ResponseTripsJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:07:02.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResponseTripJson.cs",
+              "DocumentMoniker": "C:\\Users\\gfagundes\\Documents\\Development\\Gabriel\\TripOrganizer_BackEnd\\src\\TripOrganizer.Domain\\Responses\\ResponseTripJson.cs",
+              "RelativeDocumentMoniker": "src\\TripOrganizer.Domain\\Responses\\ResponseTripJson.cs",
+              "ToolTip": "C:\\Users\\gfagundes\\Documents\\Development\\Gabriel\\TripOrganizer_BackEnd\\src\\TripOrganizer.Domain\\Responses\\ResponseTripJson.cs",
+              "RelativeToolTip": "src\\TripOrganizer.Domain\\Responses\\ResponseTripJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:03:30.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Trip.cs",
+              "DocumentMoniker": "C:\\Users\\gfagundes\\Documents\\Development\\Gabriel\\TripOrganizer_BackEnd\\src\\TripOrganizer.Domain\\Entities\\Trip.cs",
+              "RelativeDocumentMoniker": "src\\TripOrganizer.Domain\\Entities\\Trip.cs",
+              "ToolTip": "C:\\Users\\gfagundes\\Documents\\Development\\Gabriel\\TripOrganizer_BackEnd\\src\\TripOrganizer.Domain\\Entities\\Trip.cs",
+              "RelativeToolTip": "src\\TripOrganizer.Domain\\Entities\\Trip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:02:49.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResponseActivityJson.cs",
+              "DocumentMoniker": "C:\\Users\\gfagundes\\Documents\\Development\\Gabriel\\TripOrganizer_BackEnd\\src\\TripOrganizer.Domain\\Responses\\ResponseActivityJson.cs",
+              "RelativeDocumentMoniker": "src\\TripOrganizer.Domain\\Responses\\ResponseActivityJson.cs",
+              "ToolTip": "C:\\Users\\gfagundes\\Documents\\Development\\Gabriel\\TripOrganizer_BackEnd\\src\\TripOrganizer.Domain\\Responses\\ResponseActivityJson.cs",
+              "RelativeToolTip": "src\\TripOrganizer.Domain\\Responses\\ResponseActivityJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:02:07.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestRegisterTripJson.cs",
+              "DocumentMoniker": "C:\\Users\\gfagundes\\Documents\\Development\\Gabriel\\TripOrganizer_BackEnd\\src\\TripOrganizer.Domain\\Requests\\RequestRegisterTripJson.cs",
+              "RelativeDocumentMoniker": "src\\TripOrganizer.Domain\\Requests\\RequestRegisterTripJson.cs",
+              "ToolTip": "C:\\Users\\gfagundes\\Documents\\Development\\Gabriel\\TripOrganizer_BackEnd\\src\\TripOrganizer.Domain\\Requests\\RequestRegisterTripJson.cs",
+              "RelativeToolTip": "src\\TripOrganizer.Domain\\Requests\\RequestRegisterTripJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:01:42.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "C:\\Users\\gfagundes\\Documents\\Development\\Gabriel\\TripOrganizer_BackEnd\\src\\TripOrganizer.Domain\\Entities\\Activity.cs",
+              "RelativeDocumentMoniker": "src\\TripOrganizer.Domain\\Entities\\Activity.cs",
+              "ToolTip": "C:\\Users\\gfagundes\\Documents\\Development\\Gabriel\\TripOrganizer_BackEnd\\src\\TripOrganizer.Domain\\Entities\\Activity.cs",
+              "RelativeToolTip": "src\\TripOrganizer.Domain\\Entities\\Activity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:01:27.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TripsValidator.cs",
+              "DocumentMoniker": "C:\\Users\\gfagundes\\Documents\\Development\\Gabriel\\TripOrganizer_BackEnd\\src\\TripOrganizer.Service\\Validators\\TripsValidator.cs",
+              "RelativeDocumentMoniker": "src\\TripOrganizer.Service\\Validators\\TripsValidator.cs",
+              "ToolTip": "C:\\Users\\gfagundes\\Documents\\Development\\Gabriel\\TripOrganizer_BackEnd\\src\\TripOrganizer.Service\\Validators\\TripsValidator.cs",
+              "RelativeToolTip": "src\\TripOrganizer.Service\\Validators\\TripsValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T18:52:57.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResourceErrorMessages.resx",
+              "DocumentMoniker": "C:\\Users\\gfagundes\\Documents\\Development\\Gabriel\\TripOrganizer_BackEnd\\src\\TripOrganizer.Domain\\Exception\\ResourceErrorMessages.resx",
+              "RelativeDocumentMoniker": "src\\TripOrganizer.Domain\\Exception\\ResourceErrorMessages.resx",
+              "ToolTip": "C:\\Users\\gfagundes\\Documents\\Development\\Gabriel\\TripOrganizer_BackEnd\\src\\TripOrganizer.Domain\\Exception\\ResourceErrorMessages.resx",
+              "RelativeToolTip": "src\\TripOrganizer.Domain\\Exception\\ResourceErrorMessages.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-26T17:51:53.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TripsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gfagundes\\Documents\\Development\\Gabriel\\TripOrganizer_BackEnd\\src\\TripOrganizer.Infra\\Repository\\TripsRepository.cs",
+              "RelativeDocumentMoniker": "src\\TripOrganizer.Infra\\Repository\\TripsRepository.cs",
+              "ToolTip": "C:\\Users\\gfagundes\\Documents\\Development\\Gabriel\\TripOrganizer_BackEnd\\src\\TripOrganizer.Infra\\Repository\\TripsRepository.cs",
+              "RelativeToolTip": "src\\TripOrganizer.Infra\\Repository\\TripsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T17:47:42.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TripsController.cs",
+              "DocumentMoniker": "C:\\Users\\gfagundes\\Documents\\Development\\Gabriel\\TripOrganizer_BackEnd\\src\\TripOrganizer.Application\\Controllers\\TripsController.cs",
+              "RelativeDocumentMoniker": "src\\TripOrganizer.Application\\Controllers\\TripsController.cs",
+              "ToolTip": "C:\\Users\\gfagundes\\Documents\\Development\\Gabriel\\TripOrganizer_BackEnd\\src\\TripOrganizer.Application\\Controllers\\TripsController.cs",
+              "RelativeToolTip": "src\\TripOrganizer.Application\\Controllers\\TripsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T17:12:59.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gfagundes\\Documents\\Development\\Gabriel\\TripOrganizer_BackEnd\\src\\TripOrganizer.Application\\Program.cs",
+              "RelativeDocumentMoniker": "src\\TripOrganizer.Application\\Program.cs",
+              "ToolTip": "C:\\Users\\gfagundes\\Documents\\Development\\Gabriel\\TripOrganizer_BackEnd\\src\\TripOrganizer.Application\\Program.cs",
+              "RelativeToolTip": "src\\TripOrganizer.Application\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T17:05:23.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
